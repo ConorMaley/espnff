@@ -12,6 +12,7 @@ without webscraping for data manipulation projects.
 - Trade alerts
 - Waiver wire pickups
 - Players on waivers that should probably be picked up
+- More in-depth prediction analysis (gamma distribution, % chance this player scores X points...) 
 
 ## Getting Started
 
