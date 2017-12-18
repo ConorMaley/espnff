@@ -6,6 +6,13 @@ Using ESPN's Fantasy Football private API, this package interfaces with
 ESPN Fantasy Football to gather data from any public league. A good way to mine data
 without webscraping for data manipulation projects.
 
+**Additions planned:**
+
+- Work on *players.py*
+- Trade alerts
+- Waiver wire pickups
+- Players on waivers that should probably be picked up
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running 
